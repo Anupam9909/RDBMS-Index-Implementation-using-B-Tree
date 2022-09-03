@@ -12,3 +12,5 @@
 
                                             **Fig 8.5 Index Seek**
 ![image](https://user-images.githubusercontent.com/85264125/188255106-1cc48aa5-3a5b-4961-b8cc-cfbbf45242d9.png)
+
+Working Video >> https://drive.google.com/drive/folders/1IUAfYI03aeEz8q4xreCD0ANM6pNOPeU_?usp=sharing
